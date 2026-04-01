@@ -35,8 +35,3 @@ I build scalable, high-performance web applications and lead digital strategy ac
 - 👩‍💼 Director of Web Development & Digital Strategy *(current)*
 - 👩‍🏫 Former Code School Instructor & Full-Stack Curriculum Developer
 - 🎤 Conference speaker *(React workshop @ HDC)*
-
-I've taught full-stack development, led teams, and built production-level applications — giving me a unique ability to write clean code and explain complex systems clearly.
-
-![Vanessa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark)
