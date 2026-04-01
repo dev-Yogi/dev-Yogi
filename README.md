@@ -1,16 +1,42 @@
-## Hi there 👋
+# 👋 Hi, I'm Vanessa Kasun
+### 💻 Full-Stack Developer | Director of Web Development & Digital Strategy
 
-<!--
-**dev-Yogi/dev-Yogi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build scalable, high-performance web applications and lead digital strategy across multiple commercial brands. My work sits at the intersection of engineering, UX, and business growth — turning complex problems into clean, functional solutions.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I Do
+- Architect and develop full-stack web solutions
+- Build custom WordPress ecosystems (themes, plugins, Gutenberg blocks)
+- Develop modern front-end applications with React & Next.js
+- Design and integrate APIs and backend systems
+- Lead SEO, performance optimization, and conversion strategy
+- Bridge the gap between development and business impact
+
+---
+
+## 🛠️ Tech Stack
+
+**Frontend**
+`HTML5` `CSS3` `SASS` `JavaScript (ES6+)` `React.js` `Next.js` `Tailwind CSS` `Bootstrap`
+
+**Backend**
+`PHP` `Node.js` `MySQL` `RESTful APIs`
+
+**CMS & E-Commerce**
+`WordPress` `WooCommerce` `Shopify`
+
+**Tools & Workflow**
+`Git` `GitHub` `Webpack` `npm` `ACF Pro` `Gutenberg` `Google Analytics` `SEMrush` `WP Engine` `Flywheel`
+
+---
+
+## 🧠 Background
+- 👩‍💼 Director of Web Development & Digital Strategy *(current)*
+- 👩‍🏫 Former Code School Instructor & Full-Stack Curriculum Developer
+- 🎤 Conference speaker *(React workshop @ HDC)*
+
+I've taught full-stack development, led teams, and built production-level applications — giving me a unique ability to write clean code and explain complex systems clearly.
+
+![Vanessa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark)
