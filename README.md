@@ -3,8 +3,6 @@
 
 I build scalable, high-performance web applications and lead digital strategy across multiple commercial brands. My work sits at the intersection of engineering, UX, and business growth — turning complex problems into clean, functional solutions.
 
-https://vanessa-portfolio-8sxmbt67n-dev-yogis-projects.vercel.app/
-
 ---
 
 ## 🚀 What I Do
