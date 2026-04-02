@@ -38,5 +38,6 @@ https://vanessa-portfolio-8sxmbt67n-dev-yogis-projects.vercel.app/
 - 👩‍🏫 Former Code School Instructor & Full-Stack Curriculum Developer
 - 🎤 Conference speaker *(React workshop @ HDC)*
 
-![Vanessa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dev-Yogi&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-Yogi&layout=compact&theme=dark)
+![Vanessa's GitHub Stats](https://github-readme-stats-abc123.vercel.app/api?username=dev-Yogi&show_icons=true&theme=dark)
+
+![Top Languages](https://github-readme-stats-abc123.vercel.app/api/top-langs/?username=dev-Yogi&layout=compact&theme=dark)
