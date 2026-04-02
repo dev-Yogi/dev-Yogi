@@ -38,6 +38,11 @@ https://vanessa-portfolio-8sxmbt67n-dev-yogis-projects.vercel.app/
 - 👩‍🏫 Former Code School Instructor & Full-Stack Curriculum Developer
 - 🎤 Conference speaker *(React workshop @ HDC)*
 
+##🤝 Let’s Connect
+
+- 💼 LinkedIn: [(add link)](https://www.linkedin.com/in/vanessa-k-15393a139/)
+-🌐 Portfolio: [(add link)]([https://www.linkedin.com/in/vanessa-k-15393a139/](https://vanessa-portfolio-8sxmbt67n-dev-yogis-projects.vercel.app/))
+
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
