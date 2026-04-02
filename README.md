@@ -3,6 +3,8 @@
 
 I build scalable, high-performance web applications and lead digital strategy across multiple commercial brands. My work sits at the intersection of engineering, UX, and business growth — turning complex problems into clean, functional solutions.
 
+https://vanessa-portfolio-8sxmbt67n-dev-yogis-projects.vercel.app/
+
 ---
 
 ## 🚀 What I Do
@@ -35,3 +37,6 @@ I build scalable, high-performance web applications and lead digital strategy ac
 - 👩‍💼 Director of Web Development & Digital Strategy *(current)*
 - 👩‍🏫 Former Code School Instructor & Full-Stack Curriculum Developer
 - 🎤 Conference speaker *(React workshop @ HDC)*
+
+![Vanessa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dev-Yogi&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-Yogi&layout=compact&theme=dark)
